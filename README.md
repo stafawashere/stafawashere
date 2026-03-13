@@ -1,5 +1,3 @@
-# Resume
-
-🔗 [View Live](https://stafawashere.github.io/)
+# 🔗 [View Live Resume](https://stafawashere.github.io/)
 
 [![Resume](screenshot.png)](https://stafawashere.github.io/)
