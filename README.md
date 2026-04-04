@@ -20,7 +20,7 @@
 </td>
 <td>
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stafawashere&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stafawashere&theme=dracula&bg_color=1e1e1e)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </td>
 </table>
