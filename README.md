@@ -1,15 +1,12 @@
 <div align="center">
 
 
-# `Mahfuj Mustafa`
-
+###  `Mahfuj Mustafa`
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=9D86FF&center=true&vCenter=true&width=640&height=42&lines=security+researcher;reverse+engineer;full-stack+engineer;live-ops+developer;bot+architect" alt="roles" />
-
-<br>
 
 [![Portfolio](https://img.shields.io/badge/mahfujmustafa.dev-6847DE?style=flat-square&logo=vercel&logoColor=white)](https://mahfujmustafa.dev)
 [![Email](https://img.shields.io/badge/contact@mahfujmustafa.dev-0D1117?style=flat-square&logo=maildotru&logoColor=9D86FF)](mailto:contact@mahfujmustafa.dev)
-![Location](https://img.shields.io/badge/New_York_City-0D1117?style=flat-square&logo=googlemaps&logoColor=9D86FF)
+<br>
 ![Available](https://img.shields.io/badge/status-available_for_work-3FB950?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=stafawashere&style=flat-square&color=6847DE&label=visitors)
 
