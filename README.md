@@ -19,15 +19,15 @@ mahfuj@github ~ % whoami
 Mahfuj Mustafa · 17 · New York City
 
 mahfuj@github ~ % cat bio.txt
-High-school developer who breaks things to understand them.
-Security research, reverse engineering, full-stack web, Discord
-bots, API wrappers, and automation — plus live games that have
-reached 78,000,000+ players.
+High-school developer who takes systems apart to learn how
+they work. Security research, reverse engineering, full-stack
+web, native macOS graphics, Discord bots and API wrappers, plus
+live games that have reached 78,000,000+ players.
 
 mahfuj@github ~ % ls focus/
 reverse-engineering   security-analysis   realtime-systems
 full-stack-web        api-design          bot-development
-live-ops              automation          performance-tuning
+native-graphics       live-ops            performance-tuning
 
 mahfuj@github ~ % sudo hire --status
 [ ok ] available for work
@@ -41,6 +41,8 @@ mahfuj@github ~ % sudo hire --status
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Objective-C++](https://img.shields.io/badge/Objective--C++-438EFF?style=flat-square&logo=apple&logoColor=white)
 
 **Frameworks**
 
@@ -55,17 +57,21 @@ mahfuj@github ~ % sudo hire --status
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-000000?style=flat-square&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## `~/` featured work
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **[Allusion](https://github.com/stafawashere/Allusion)** | Reverse-engineered the game *Rivals* — found weaknesses in its anti-cheat, combat, and rendering, all disclosed to the devs before going public. | `Lua` |
-| **[Disky](https://github.com/stafawashere/Disky)** | A Discord library built from scratch, talking straight to Discord over WebSockets + HTTP instead of leaning on existing wrappers. | `Python` |
-| **[Distribution Network](https://github.com/stafawashere/dms)** | Full-stack platform for distributors and resellers — separate portals, inventory tracking, bulk pricing, sales dashboards. | `Next.js` · `TS` · `Postgres` · `Prisma` |
-| **[Psychedelic Model](https://github.com/stafawashere/psychedelic-model)** | Generates trippy images by loosening how an AI model perceives, until its own learned patterns take over the picture. | `Python` · `PyTorch` |
-| **[mahfujmustafa.dev](https://github.com/stafawashere/stafawashere.github.io)** | Terminal portfolio — no frameworks, a real shell with 35+ commands, and an animated circuit board behind everything. | `JS` · `Canvas` |
+| **[Allusion](https://github.com/stafawashere/allusion)** | Reverse-engineered the game *Rivals* and found weaknesses in its anti-cheat, combat, and rendering, all disclosed to the devs before going public. | `Lua` |
+| **[Disky](https://github.com/stafawashere/disky)** | A Discord library built from scratch, talking straight to Discord over WebSockets and HTTP instead of leaning on existing wrappers. | `Python` |
+| **[Distribution Network](https://github.com/stafawashere/dms)** | Full-stack platform for distributors and resellers, with separate portals, inventory tracking, bulk pricing and sales dashboards. | `Next.js` · `TS` · `Postgres` · `Prisma` |
+| **[shhhNYC](https://github.com/stafawashere/shhhNYC)** | Predictive noise-level map that helps people find quiet places to work across NYC. | `TypeScript` |
+| **[Psychedelic Model](https://github.com/stafawashere/psychedelic-model-research)** | Generates trippy images by loosening how an AI model perceives, until its own learned patterns take over the picture. | `Python` · `PyTorch` |
+| **[mahfujmustafa.dev](https://github.com/stafawashere/stafawashere.github.io)** | Terminal portfolio with no frameworks: a working shell with 35+ commands, and an animated circuit board behind everything. | `JS` · `Canvas` |
+| **[howtopray](https://github.com/stafawashere/howtopray)** | A visual guide to the eight positions of salah, with transliteration and audio for each step. Live at [howtopray.mahfujmustafa.dev](https://howtopray.mahfujmustafa.dev). | `JS` |
 
 ## `~/` stats
 
@@ -76,7 +82,7 @@ mahfuj@github ~ % sudo hire --status
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=stafawashere&hide_border=true&background=0D1117&stroke=6847DE&ring=9D86FF&fire=6847DE&currStreakLabel=9D86FF&sideLabels=C3C5CD&dates=8B8D98&sideNums=C3C5CD&currStreakNum=9D86FF" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=stafawashere&hide_border=true&background=0D1117&stroke=6847DE&ring=9D86FF&fire=6847DE&currStreakLabel=9D86FF&sideLabels=C3C5CD&dates=8B8D98&sideNums=C3C5CD&currStreakNum=9D86FF" alt="streak" />
 
 </div>
 
