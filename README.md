@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/mahfujmustafa.dev-6847DE?style=flat-square&logo=vercel&logoColor=white)](https://mahfujmustafa.dev)
 [![Email](https://img.shields.io/badge/contact@mahfujmustafa.dev-0D1117?style=flat-square&logo=maildotru&logoColor=9D86FF)](mailto:contact@mahfujmustafa.dev)
 <br>
-![Available](https://img.shields.io/badge/status-available_for_work-3FB950?style=flat-square)
+![Class of 2027](https://img.shields.io/badge/high_school-class_of_2027-3FB950?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=stafawashere&style=flat-square&color=6847DE&label=visitors)
 
 </div>
@@ -16,21 +16,22 @@
 
 ```console
 mahfuj@github ~ % whoami
-Mahfuj Mustafa · 17 · New York City
+Mahfuj Mustafa · 17 · New York City · class of 2027
 
 mahfuj@github ~ % cat bio.txt
-High-school developer who takes systems apart to learn how
-they work. Security research, reverse engineering, full-stack
-web, native macOS graphics, Discord bots and API wrappers, plus
-live games that have reached 78,000,000+ players.
+High school senior who takes systems apart to learn how they
+work. Security research, reverse engineering, full-stack web,
+native macOS graphics, Discord bots and API wrappers, plus Roblox
+games with 78M+ combined player visits from my time at Merge Box.
 
 mahfuj@github ~ % ls focus/
 reverse-engineering   security-analysis   realtime-systems
 full-stack-web        api-design          bot-development
 native-graphics       live-ops            performance-tuning
 
-mahfuj@github ~ % sudo hire --status
-[ ok ] available for work
+mahfuj@github ~ % cat now.txt
+Turning my diffusion-model experiment into a research paper,
+including the parts that didn't work.
 ```
 
 ## `~/` stack
@@ -69,7 +70,7 @@ mahfuj@github ~ % sudo hire --status
 | **[Disky](https://github.com/stafawashere/disky)** | A Discord library built from scratch, talking straight to Discord over WebSockets and HTTP instead of leaning on existing wrappers. | `Python` |
 | **[Distribution Network](https://github.com/stafawashere/dms)** | Full-stack platform for distributors and resellers, with separate portals, inventory tracking, bulk pricing and sales dashboards. | `Next.js` · `TS` · `Postgres` · `Prisma` |
 | **[shhhNYC](https://github.com/stafawashere/shhhNYC)** | Predictive noise-level map that helps people find quiet places to work across NYC. | `TypeScript` |
-| **[Psychedelic Model](https://github.com/stafawashere/psychedelic-model-research)** | Generates trippy images by loosening how an AI model perceives, until its own learned patterns take over the picture. | `Python` · `PyTorch` |
+| **[Psychedelic Model](https://github.com/stafawashere/psychedelic-model-research)** | Research experiment: five knobs mapped to brain variables drive Stable Diffusion to test whether weakening a model's priors reproduces the geometry and figures people report. Fractal patterns emerged on their own. The figures never did, and the write-up says so. | `Python` · `PyTorch` |
 | **[mahfujmustafa.dev](https://github.com/stafawashere/stafawashere.github.io)** | Terminal portfolio with no frameworks: a working shell with 35+ commands, and an animated circuit board behind everything. | `JS` · `Canvas` |
 | **[howtopray](https://github.com/stafawashere/howtopray)** | A visual guide to the eight positions of salah, with transliteration and audio for each step. Live at [howtopray.mahfujmustafa.dev](https://howtopray.mahfujmustafa.dev). | `JS` |
 
