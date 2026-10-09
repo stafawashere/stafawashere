@@ -19,10 +19,11 @@ mahfuj@github ~ % whoami
 Mahfuj Mustafa · 17 · New York City · class of 2027
 
 mahfuj@github ~ % cat bio.txt
-High school senior who takes systems apart to learn how they
-work. Security research, reverse engineering, full-stack web,
-native macOS graphics, Discord bots and API wrappers, plus Roblox
-games with 78M+ combined player visits from my time at Merge Box.
+High school senior in NYC. I figure out how things work by
+taking them apart. I do security research and reverse
+engineering, full-stack web, native macOS graphics, and Discord
+bots and API wrappers. At Merge Box I was one of five devs on
+Roblox games with 78M+ combined player visits.
 
 mahfuj@github ~ % ls focus/
 reverse-engineering   security-analysis   realtime-systems
@@ -43,7 +44,7 @@ including the parts that didn't work.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Objective-C++](https://img.shields.io/badge/Objective--C++-438EFF?style=flat-square&logo=apple&logoColor=white)
+![Objective-C++](https://img.shields.io/static/v1?label=&message=Objective-C%2B%2B&color=438EFF&style=flat-square&logo=apple&logoColor=white)
 
 **Frameworks**
 
@@ -65,14 +66,14 @@ including the parts that didn't work.
 ## `~/` featured work
 
 | Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **[Allusion](https://github.com/stafawashere/allusion)** | Reverse-engineered the game *Rivals* and found weaknesses in its anti-cheat, combat, and rendering, all disclosed to the devs before going public. | `Lua` |
-| **[Disky](https://github.com/stafawashere/disky)** | A Discord library built from scratch, talking straight to Discord over WebSockets and HTTP instead of leaning on existing wrappers. | `Python` |
-| **[Distribution Network](https://github.com/stafawashere/dms)** | Full-stack platform for distributors and resellers, with separate portals, inventory tracking, bulk pricing and sales dashboards. | `Next.js` · `TS` · `Postgres` · `Prisma` |
-| **[shhhNYC](https://github.com/stafawashere/shhhNYC)** | Predictive noise-level map that helps people find quiet places to work across NYC. | `TypeScript` |
-| **[Psychedelic Model](https://github.com/stafawashere/psychedelic-model-research)** | Research experiment: five knobs mapped to brain variables drive Stable Diffusion to test whether weakening a model's priors reproduces the geometry and figures people report. Fractal patterns emerged on their own. The figures never did, and the write-up says so. | `Python` · `PyTorch` |
-| **[mahfujmustafa.dev](https://github.com/stafawashere/stafawashere.github.io)** | Terminal portfolio with no frameworks: a working shell with 35+ commands, and an animated circuit board behind everything. | `JS` · `Canvas` |
-| **[howtopray](https://github.com/stafawashere/howtopray)** | A visual guide to the eight positions of salah, with transliteration and audio for each step. Live at [howtopray.mahfujmustafa.dev](https://howtopray.mahfujmustafa.dev). | `JS` |
+| --- | --- | --- |
+| **[Allusion](https://github.com/stafawashere/allusion)** | I reverse-engineered the Roblox game *Rivals* and found seven exploits across its anti-cheat, combat and rendering. Every one was reported to the developers and patched before the repo went public. | `Lua` |
+| **[Disky](https://github.com/stafawashere/disky)** | A Discord library I wrote from scratch in 9th grade. It talks to Discord directly over WebSockets and HTTP instead of wrapping another library. | `Python` |
+| **[Distribution Network](https://github.com/stafawashere/dms)** | A platform for distributors and the resellers under them. Each side logs into its own portal, with inventory tracking, bulk pricing tiers and a sales dashboard. | `Next.js` · `TS` · `Postgres` · `Prisma` |
+| **[shhhNYC](https://github.com/stafawashere/shhhNYC)** | A map of NYC cafes and workspaces that predicts how loud each one will be at a given hour, from city data, transit feeds, foot traffic and reviews. | `Next.js` · `FastAPI` · `PostGIS` |
+| **[Psychedelic Model](https://github.com/stafawashere/psychedelic-model-research)** | My research experiment. Five knobs, each mapped to a brain variable, drive Stable Diffusion to test whether weakening a model's priors reproduces the geometry and figures people report. Fractal patterns grew out of the noise on their own. The figures never showed up, and the write-up says so. | `Python` · `PyTorch` |
+| **[mahfujmustafa.dev](https://github.com/stafawashere/stafawashere.github.io)** | My portfolio, built without a framework. It has a working shell with 35+ commands and an animated circuit board behind the page. | `JS` · `SVG` · `Canvas` |
+| **[howtopray](https://github.com/stafawashere/howtopray)** | A one-page guide to the eight positions of salah, with the Arabic, transliteration and English for each one and a Listen button for the recitations. Live at [howtopray.mahfujmustafa.dev](https://howtopray.mahfujmustafa.dev). | `JS` |
 
 ## `~/` stats
 
