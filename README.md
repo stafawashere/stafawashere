@@ -74,7 +74,7 @@ including the parts that didn't work.
 | **[Psychedelic Model](https://github.com/stafawashere/psychedelic-model-research)** | My research experiment. Five knobs, each mapped to a brain variable, drive Stable Diffusion to test whether weakening a model's priors reproduces the geometry and figures people report. Fractal patterns grew out of the noise on their own. The figures never showed up, and the write-up says so. | `Python` · `PyTorch` |
 | **[Spicetify Extensions](https://github.com/stafawashere/spicetify-release)** | Extensions for my own Spotify on the Comfy theme. They started as a fix for the layout a Spotify update broke, and now the album cover tints the whole app and spins as a disc that pulses on the beat. | `JS` · `Bash` |
 | **[mahfujmustafa.dev](https://github.com/stafawashere/stafawashere.github.io)** | My portfolio, built without a framework. It has a working shell with 35+ commands and an animated circuit board behind the page. | `JS` · `SVG` · `Canvas` |
-| **[howtopray](https://github.com/stafawashere/howtopray)** | A one-page guide to the eight positions of salah, with the Arabic, transliteration and English for each one and a Listen button for the recitations. Live at [howtopray.mahfujmustafa.dev](https://howtopray.mahfujmustafa.dev). | `JS` |
+| **[Sujood](https://github.com/stafawashere/sujood.online)** | A one-page guide to the eight positions of salah, with the Arabic, transliteration and English for each one and a Listen button for the recitations. Live at [sujood.online](https://sujood.online). | `JS` |
 
 ## `~/` stats
 
